@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with *Full Stack Webdevelopment*
 
-- 💬 Ask me about *Html,Css*
+- 💬 Ask me about *Html,Css,Bootstrap*
 
 - 📫 How to reach me *himanshiagrwal75@gmail.com*
 
