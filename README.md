@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshi2003&label=Profile%20views&color=0e75b6&style=flat" alt="himanshi2003" /> </p>
 
-- 🔭 I’m currently working on *Front End Web Development*
+- 🔭 I’m currently working on *Android App Development*
 
-- 🌱 I’m currently learning *Javascript*
+- 🌱 I’m currently learning *DSA*
 
-- 🤝 I’m looking for help with *Full Stack Webdevelopment*
+- 🤝 I’m looking for help with *Front end Webdevelopment*
 
 - 💬 Ask me about *Html,Css,Bootstrap*
 
