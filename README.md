@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android App Development<br><br>🌱 I’m currently learning DSA<br><br>🤝 I’m looking for help with Front end Web development<br><br>💬 Ask me about Html,Css,Bootstrap<br><br>📫 How to reach me himanshiagrwal75@gmail.com<br><br>⚡ Fun fact Smiling is my kind of work.
+🔭 Currently working on Android App Development<br><br>🌱 Currently learning DSA<br><br>🤝 Looking for help with Front end Web development<br><br>💬 Ask me about Html,Css,Bootstrap<br><br>📫 How to reach me himanshiagrwal75@gmail.com<br><br>⚡ Fun fact Smiling is my kind of work.
 
 
 ## 🌐 Socials:
