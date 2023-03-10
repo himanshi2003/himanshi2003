@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Getting hands on Android App Development<br><br>🌱 Exploring DSA<br><br>🤝 Looking for collaboration in Front end Web development<br><br>💬 Ask me about Html,Css,Bootstrap<br><br>📫 How to reach me himanshiagrwal75@gmail.com<br><br>⚡ Fun fact Smiling is my kind of work.
+🔭 Getting hands on Android App Development<br><br>🌱 Exploring DSA<br><br>🤝 Looking for collaboration in Front end Web Development<br><br>💬 Ask me about Html,Css,Bootstrap<br><br>📫 How to reach me himanshiagrwal75@gmail.com<br><br>⚡ Fun fact Smiling is my kind of work.
 
 
 ## 🌐 Socials:
